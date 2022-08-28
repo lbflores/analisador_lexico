@@ -18,7 +18,9 @@ Regras
 
 Código
 
-A função yylex() irá aplicar as regras definidas no arquivo.
+A função yylex irá aplicar as regras definidas no arquivo.
+yytext guarda o conjunto de caracteres encontrado pelo padrão.
+
 
 
 
